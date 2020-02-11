@@ -12,4 +12,6 @@ There are 3 notebooks in total
 The model construction details can be seen in Training notebook. I have used 1 LSTM , 1 CNN followed by maxpooling which is followed by a dense layer of size 
 8 units. The sigmoid value of each node is scaled by 8. I have used mse loss for training. 
 
+The utility.py script is just to load the utility functions during testing which has been used for cleaning and training. 
+
 I have noted down the answers to the other questions with me. 
